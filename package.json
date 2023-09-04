@@ -1,0 +1,8 @@
+{
+  "name": "giangTemplate",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "https://github.com/TruongGiang2000/giang_template.git",
+  "author": "Truong Giang",
+  "license": "MIT"
+}
